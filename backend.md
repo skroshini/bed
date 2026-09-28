@@ -132,3 +132,4 @@ Introduction**
 Front end development builds the part of a web application that the user sees and interacts with (the client side). Back end development builds the part that runs on the server, handling logic, data and security (the server side). Both must work together for a complete application.
 
 **Comparison table**:-
+![Screenshot%202026-09-28%20214726](Screenshot%202026-09-28%20214726.png)
